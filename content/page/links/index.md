@@ -1,14 +1,14 @@
 ---
 title: 友链
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: DeepSeek
-    description: DeepSeek 是一家专注于通用人工智能的公司，提供强大的大语言模型与开放平台。
-    website: https://www.deepseek.com
-    image: https://cdn.simpleicons.org/deepseek/4D6BFE
+  - title: RinChord的小本本
+    description: 于浩渺星河中，守护一隅温存
+    website: https://blog.rinchord.top/
+    image: https://blog.rinchord.top/img/icon150_hu_3709d6f853545f54.png
+  - title: Steven的笔记本
+    description: Meow meow meow...?
+    website: https://blog.steven53.top/
+    image: https://blog.steven53.top/img/avatar_hue48002d6542a472818c02b5f0bee8ed1_780708_300x0_resize_box_3.png
 menu:
     main: 
         weight: 4
@@ -17,4 +17,3 @@ menu:
 
 comments: false
 ---
-来个测试？

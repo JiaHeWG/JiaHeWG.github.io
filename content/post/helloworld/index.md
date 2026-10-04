@@ -3,8 +3,8 @@ title: Hello World
 description: 新站的第一个帖子！
 slug: hello-world
 date: 2026-10-04 01:33:25+0800
-categories:
-tags:
+categories: 折腾
+tags: 
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
